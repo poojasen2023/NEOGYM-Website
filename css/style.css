@@ -1,0 +1,266 @@
+body{
+	margin:0px;
+	padding:0px;	
+}
+.header-section{
+	width:100%;
+	background:transparent;
+	z-index:99;
+	position:absolute;
+	padding:10px 0px;
+}
+.navbar-brand{
+	font-weight:650;
+	margin-left:25px;
+	font-size:22px;
+	color:#fff;
+}
+.navbar-nav .nav-item{
+	margin-right:30px;
+ }
+.navbar-nav .nav-item .nav-link{
+	color:#fff;
+}
+.navbar-nav .nav-item .nav-link:hover{
+	border-bottom:3px solid red;
+}
+.navbar-nav .active{
+	border-bottom:3px solid red;
+}
+/*  Header Section end  */
+/*  Banner Section start */
+.banner-section{
+	width:100%;
+	background-image:url("../images/hero-bg.jpg");
+	height:700px;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-position:center;
+}
+.carousel-inner{
+	padding-top:180px;
+}
+.banner-content{
+	text-align:center;
+	color:#fff;
+	
+	margin-bottom:100px;
+}
+.banner-fitnes{
+	font-size:28px;
+	font-weight:700;
+
+}
+.banner-traing{
+	font-size:42px;
+	font-weight:780;
+}
+.banner-neogym{
+	font-size:60px;
+	font-weight:780;
+	letter-spacing:3px;
+}
+.banner-peragr{
+	font-size:18px;
+	padding:30px 90px;
+	
+}
+.banner-cont{
+	padding-top:30px;
+}
+.banner-cont a{
+	text-decoration:none;
+	color:#fff;
+	font-size:20px;
+	border:2px solid white;
+	padding:10px 35px;
+	
+}
+/*  Banner Section end */
+/* ChooseUs Section start */
+.chooseUs-section{
+	width:100%;
+	background-image:url("../images/us-bg.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100% 100%;
+	height:555px;
+}
+.choose-heading{
+	color:#fff;
+	text-align:center;
+	font-weight:bold;
+	font-size:34px;
+   padding-top:120px;
+  /* border-bottom:3px solid red;*/
+ 
+}
+.chooseUs-column{
+	text-align:center;
+	padding-top:60px;
+}
+.EQUIPMENT{
+	font-size: 1.25rem;
+	font-weight:bold;
+	padding-top:12px;
+	
+}
+.ipsum{
+	font-weight:400;
+	font-size:20px;
+	line-height:20px;
+	padding-top:8px;
+}
+
+/* ChooseUs Section end */
+/*  Healthy  Section start */
+
+.healthy-section{
+	width:100%;
+	background-image:url("../images/healthy-bg.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-position:center;
+	height:515px;
+}
+.Healthymind{
+	color:#fff;
+	font-weight:bold;
+	font-size:34px;
+}
+.healthy-coloumn{
+	text-align:center;
+	padding-top:120px;
+	font-size: 2rem;
+	
+}
+.healthy-peragrph{
+	color:#fff;
+	font-size:18px;
+	font-weight:415;
+	padding-top:40px;
+}
+
+.health-read a{
+	text-decoration:none;
+	color:#fff;
+	font-size:18px;
+	border:2px solid white;
+	padding:10px 30px;
+	
+}
+.health-read{
+	padding-top:15px;
+
+}
+/*  Healthy  Section end */
+/*  Gym Section start */
+.Gym-section{
+	width:100%;
+	background-image:url("../images/trainer-bg.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100% 100%;
+	height:800px;
+}
+.gym-heading{
+	color:#fff;
+	font-weight:bold;
+	text-align:center;
+	padding-top:110px;
+}
+.gym-design{
+	color:white;
+	text-align:center;
+	padding-top:60px;
+}
+.gym-team{
+	font-weight:bold;
+}
+.gym-img{
+	border-radius:10px;
+}
+.gym-logo{
+	background-color:#fff;
+	width:225px;
+	margin:0 auto;
+	padding:10px 0px;
+	 border-radius:20px; 
+	 margin-top:-20px;
+	 position:relative;
+	 z-index:99;
+}
+
+
+/*  Gym Section end */
+/*  Contact Us Section start */
+.contact-section{
+	width:100%;
+	background-color:#27223f;
+	position:relative;
+   padding:100px 0px;
+	
+}
+.demo{
+	 color:white;
+}
+.contact-heading{
+	color:#fff;
+	font-weight:bold;
+}
+.contact-fome-heading{
+text-align:center;
+padding-top:70px;
+padding-bottom:30px;
+}
+/* right-side form */
+
+.fome-txt input{
+	width:75%;
+	padding:10px 20px;
+	
+}
+
+.fome-button{
+	padding-top:20px;
+}
+.fome-button button{
+	margin-left:290px;
+	padding:10px 60px;
+	font-size:20px;
+	
+}
+
+/*  Contact Us Section End */
+/*  footer Section Start */
+.footer-section{
+	width:100%;
+	background-color:#252233;
+	padding-bottom:50px;
+}
+.demo{
+	width:70%;
+	margin:0 auto;
+}
+.footer-map{
+	color:#fff;
+	text-align:center;
+	padding-top:58px;
+	
+}
+.footer-text{
+	padding-top:18px;
+}
+
+
+
+/*  footer Section end  */
+
+
+
+
+
+
+
+
+
